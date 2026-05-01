@@ -90,7 +90,7 @@ function App() {
 
       {/* Footer */}
       <footer style={{ marginTop: "40px", borderTop: "1px solid #ddd", width: "100%", paddingTop: "20px" }}>
-        <p style={{ color: 'gray', fontStyle: 'italic' }}>Created by: Justine F. Mabuyo</p>
+        <p style={{ color: 'gray', fontStyle: 'italic' }}>Created by: Justine F Mabuyo</p>
         <p style={{ fontSize: "0.8rem", color: "#999" }}>Data Source: Classroom Shortage Exam Data</p>
       </footer>
     </div>
