@@ -19,7 +19,7 @@ function App() {
 
       <h1>School Shortage Dashboard</h1>
       <br/>
-      <p style={{ color: 'blue', fontStyle: 'italic' }}>Created by: Justine F. Mabuyo</p>
+      <p style={{ color: 'gray', fontStyle: 'italic' }}>Created by: Justine F. Mabuyo</p>
     </div>
     
     
