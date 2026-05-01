@@ -1,0 +1,101 @@
+school_id,school_name,region,division,municipality,total_enrollment,total_classrooms,functional_classrooms,classroom_shortage,has_buildable_space,buildable_area_sqm,priority_score
+100001,"Cavite Town Beta School 1",Region IV-A,"Cavite","Town Beta",2746,56,53,16,No,0,160.00
+100002,"Cebu Village Epsilon School 2",Region VII,"Cebu","Village Epsilon",1003,33,33,0,Yes,104,1.04
+100003,"Cebu Village Epsilon School 3",Region VII,"Cebu","Village Epsilon",2503,48,48,15,Yes,1894,168.94
+100004,"Cagayan Village Epsilon School 4",Region II,"Cagayan","Village Epsilon",1343,27,26,8,Yes,1710,97.10
+100005,"Tarlac Town Beta School 5",Region III,"Tarlac","Town Beta",2243,50,46,11,Yes,1001,120.01
+100006,"Pangasinan I District Delta School 6",Region I,"Pangasinan I","District Delta",1847,60,58,0,Yes,848,8.48
+100007,"Isabela Village Epsilon School 7",Region II,"Isabela","Village Epsilon",1267,29,26,6,Yes,1994,79.94
+100008,"Taguig Municipality Gamma School 8",NCR,"Taguig","Municipality Gamma",417,16,11,0,Yes,1193,11.93
+100009,"Davao Occidental District Delta School 9",Region XI,"Davao Occidental","District Delta",2007,59,58,0,No,0,0.00
+100010,"Pampanga Municipality Gamma School 10",Region III,"Pampanga","Municipality Gamma",2329,58,55,4,Yes,1038,50.38
+100011,"Negros Oriental City Alpha School 11",Region VII,"Negros Oriental","City Alpha",1384,32,27,8,No,0,80.00
+100012,"Pangasinan I Municipality Gamma School 12",Region I,"Pangasinan I","Municipality Gamma",1936,54,54,0,No,0,0.00
+100013,"Cavite Municipality Gamma School 13",Region IV-A,"Cavite","Municipality Gamma",860,28,24,0,Yes,569,5.69
+100014,"Tarlac Town Beta School 14",Region III,"Tarlac","Town Beta",2109,39,37,16,Yes,800,168.00
+100015,"Negros Oriental Village Epsilon School 15",Region VII,"Negros Oriental","Village Epsilon",1019,27,27,0,Yes,1993,19.93
+100016,"Davao del Sur City Alpha School 16",Region XI,"Davao del Sur","City Alpha",1530,49,49,0,Yes,348,3.48
+100017,"Quezon City Village Epsilon School 17",NCR,"Quezon City","Village Epsilon",2822,75,73,0,No,0,0.00
+100018,"Tarlac Village Epsilon School 18",Region III,"Tarlac","Village Epsilon",2161,42,41,14,Yes,1896,158.96
+100019,"Cagayan Town Beta School 19",Region II,"Cagayan","Town Beta",2881,99,95,0,Yes,191,1.91
+100020,"Pangasinan II Town Beta School 20",Region I,"Pangasinan II","Town Beta",1871,53,51,0,Yes,222,2.22
+100021,"Quirino Village Epsilon School 21",Region II,"Quirino","Village Epsilon",439,8,7,4,Yes,1725,57.25
+100022,"Aklan City Alpha School 22",Region VI,"Aklan","City Alpha",1750,40,36,8,No,0,80.00
+100023,"Tarlac Town Beta School 23",Region III,"Tarlac","Town Beta",2466,54,51,11,Yes,1867,128.67
+100024,"Taguig Town Beta School 24",NCR,"Taguig","Town Beta",1113,26,26,2,Yes,1872,38.72
+100025,"Cagayan Village Epsilon School 25",Region II,"Cagayan","Village Epsilon",2235,47,42,14,Yes,1015,150.15
+100026,"Iloilo District Delta School 26",Region VI,"Iloilo","District Delta",2277,68,63,0,Yes,1833,18.33
+100027,"Laguna District Delta School 27",Region IV-A,"Laguna","District Delta",1737,49,45,0,Yes,1076,10.76
+100028,"Davao del Norte Village Epsilon School 28",Region XI,"Davao del Norte","Village Epsilon",2585,75,75,0,Yes,920,9.20
+100029,"Capiz Village Epsilon School 29",Region VI,"Capiz","Village Epsilon",2625,89,85,0,No,0,0.00
+100030,"Pangasinan I District Delta School 30",Region I,"Pangasinan I","District Delta",1578,44,39,1,Yes,532,15.32
+100031,"Davao del Norte District Delta School 31",Region XI,"Davao del Norte","District Delta",2509,65,61,2,Yes,237,22.37
+100032,"Davao del Norte Village Epsilon School 32",Region XI,"Davao del Norte","Village Epsilon",1163,20,20,10,Yes,1625,116.25
+100033,"Negros Occidental Village Epsilon School 33",Region VI,"Negros Occidental","Village Epsilon",1248,36,33,0,Yes,1652,16.52
+100034,"Caloocan Town Beta School 34",NCR,"Caloocan","Town Beta",941,32,29,0,No,0,0.00
+100035,"Cagayan City Alpha School 35",Region II,"Cagayan","City Alpha",2635,47,44,22,Yes,1578,235.78
+100036,"Manila Municipality Gamma School 36",NCR,"Manila","Municipality Gamma",2116,61,58,0,No,0,0.00
+100037,"Nueva Ecija City Alpha School 37",Region III,"Nueva Ecija","City Alpha",1404,37,36,0,No,0,0.00
+100038,"Quezon Municipality Gamma School 38",Region IV-A,"Quezon","Municipality Gamma",1198,25,20,10,Yes,1716,117.16
+100039,"Quezon City Alpha School 39",Region IV-A,"Quezon","City Alpha",2096,66,65,0,No,0,0.00
+100040,"Pangasinan II Municipality Gamma School 40",Region I,"Pangasinan II","Municipality Gamma",2620,51,48,18,Yes,353,183.53
+100041,"Negros Occidental Town Beta School 41",Region VI,"Negros Occidental","Town Beta",2154,40,39,15,Yes,1964,169.64
+100042,"Antique Town Beta School 42",Region VI,"Antique","Town Beta",2228,72,71,0,Yes,1814,18.14
+100043,"Davao de Oro Municipality Gamma School 43",Region XI,"Davao de Oro","Municipality Gamma",1062,18,18,9,Yes,1879,108.79
+100044,"Zambales Municipality Gamma School 44",Region III,"Zambales","Municipality Gamma",2742,65,60,9,Yes,1772,107.72
+100045,"Negros Occidental Municipality Gamma School 45",Region VI,"Negros Occidental","Municipality Gamma",2560,52,51,13,Yes,1472,144.72
+100046,"Aklan Town Beta School 46",Region VI,"Aklan","Town Beta",281,11,8,0,No,0,0.00
+100047,"Nueva Vizcaya Village Epsilon School 47",Region II,"Nueva Vizcaya","Village Epsilon",2635,58,55,11,No,0,110.00
+100048,"Negros Oriental Town Beta School 48",Region VII,"Negros Oriental","Town Beta",1337,30,26,8,No,0,80.00
+100049,"Davao Oriental Town Beta School 49",Region XI,"Davao Oriental","Town Beta",2436,41,40,21,No,0,210.00
+100050,"Quirino City Alpha School 50",Region II,"Quirino","City Alpha",2133,66,63,0,Yes,1219,12.19
+100051,"Quezon City Municipality Gamma School 51",NCR,"Quezon City","Municipality Gamma",2473,51,51,11,No,0,110.00
+100052,"Batangas City Alpha School 52",Region IV-A,"Batangas","City Alpha",1155,23,19,10,Yes,1675,116.75
+100053,"Pangasinan II Municipality Gamma School 53",Region I,"Pangasinan II","Municipality Gamma",1003,25,24,2,Yes,705,27.05
+100054,"Bohol District Delta School 54",Region VII,"Bohol","District Delta",473,11,7,5,No,0,50.00
+100055,"Aklan City Alpha School 55",Region VI,"Aklan","City Alpha",1963,56,53,0,Yes,495,4.95
+100056,"Davao Oriental City Alpha School 56",Region XI,"Davao Oriental","City Alpha",2230,58,55,1,No,0,10.00
+100057,"Ilocos Sur Town Beta School 57",Region I,"Ilocos Sur","Town Beta",1329,28,25,9,Yes,1978,109.78
+100058,"Pasig Village Epsilon School 58",NCR,"Pasig","Village Epsilon",1500,34,33,5,Yes,1107,61.07
+100059,"Isabela Town Beta School 59",Region II,"Isabela","Town Beta",2986,63,60,15,Yes,1466,164.66
+100060,"Aklan City Alpha School 60",Region VI,"Aklan","City Alpha",1318,39,35,0,Yes,372,3.72
+100061,"Pangasinan II Village Epsilon School 61",Region I,"Pangasinan II","Village Epsilon",2493,77,73,0,Yes,235,2.35
+100062,"Pangasinan I Municipality Gamma School 62",Region I,"Pangasinan I","Municipality Gamma",2604,57,53,13,No,0,130.00
+100063,"Cebu District Delta School 63",Region VII,"Cebu","District Delta",2863,94,90,0,Yes,893,8.93
+100064,"Capiz District Delta School 64",Region VI,"Capiz","District Delta",207,7,3,3,No,0,30.00
+100065,"Nueva Vizcaya Municipality Gamma School 65",Region II,"Nueva Vizcaya","Municipality Gamma",2337,68,67,0,Yes,1152,11.52
+100066,"Isabela Town Beta School 66",Region II,"Isabela","Town Beta",932,24,21,3,Yes,1412,44.12
+100067,"Rizal Town Beta School 67",Region IV-A,"Rizal","Town Beta",219,4,3,3,Yes,975,39.75
+100068,"Rizal District Delta School 68",Region IV-A,"Rizal","District Delta",958,20,20,4,Yes,1740,57.40
+100069,"Cagayan Town Beta School 69",Region II,"Cagayan","Town Beta",2689,86,86,0,Yes,548,5.48
+100070,"Quezon Town Beta School 70",Region IV-A,"Quezon","Town Beta",2121,50,48,6,No,0,60.00
+100071,"Rizal City Alpha School 71",Region IV-A,"Rizal","City Alpha",1220,40,36,0,Yes,727,7.27
+100072,"Davao Occidental City Alpha School 72",Region XI,"Davao Occidental","City Alpha",2147,66,65,0,No,0,0.00
+100073,"Ilocos Sur Town Beta School 73",Region I,"Ilocos Sur","Town Beta",1012,23,22,4,Yes,1713,57.13
+100074,"Capiz District Delta School 74",Region VI,"Capiz","District Delta",1326,45,41,0,Yes,750,7.50
+100075,"Iloilo Town Beta School 75",Region VI,"Iloilo","Town Beta",2754,61,59,10,Yes,1148,111.48
+100076,"Siquijor District Delta School 76",Region VII,"Siquijor","District Delta",2927,76,75,0,Yes,1435,14.35
+100077,"Pangasinan II District Delta School 77",Region I,"Pangasinan II","District Delta",2538,74,74,0,No,0,0.00
+100078,"Bataan Village Epsilon School 78",Region III,"Bataan","Village Epsilon",784,24,19,1,No,0,10.00
+100079,"Bohol Municipality Gamma School 79",Region VII,"Bohol","Municipality Gamma",1925,40,36,13,Yes,1299,142.99
+100080,"Nueva Vizcaya Municipality Gamma School 80",Region II,"Nueva Vizcaya","Municipality Gamma",1892,37,34,14,Yes,1303,153.03
+100081,"Taguig District Delta School 81",NCR,"Taguig","District Delta",2557,62,57,7,Yes,486,74.86
+100082,"Cavite District Delta School 82",Region IV-A,"Cavite","District Delta",2292,56,54,4,No,0,40.00
+100083,"Laguna City Alpha School 83",Region IV-A,"Laguna","City Alpha",2583,44,43,22,Yes,1789,237.89
+100084,"Caloocan District Delta School 84",NCR,"Caloocan","District Delta",721,21,18,1,Yes,297,12.97
+100085,"Pampanga Municipality Gamma School 85",Region III,"Pampanga","Municipality Gamma",1499,39,37,1,Yes,271,12.71
+100086,"Davao de Oro Municipality Gamma School 86",Region XI,"Davao de Oro","Municipality Gamma",2079,69,65,0,Yes,1944,19.44
+100087,"Negros Occidental Municipality Gamma School 87",Region VI,"Negros Occidental","Municipality Gamma",596,18,18,0,Yes,243,2.43
+100088,"Cagayan Village Epsilon School 88",Region II,"Cagayan","Village Epsilon",2668,67,62,5,Yes,1062,60.62
+100089,"Quezon City Town Beta School 89",NCR,"Quezon City","Town Beta",345,10,7,2,Yes,127,21.27
+100090,"Bataan District Delta School 90",Region III,"Bataan","District Delta",2619,77,75,0,Yes,542,5.42
+100091,"Rizal District Delta School 91",Region IV-A,"Rizal","District Delta",1443,40,36,1,No,0,10.00
+100092,"Caloocan Municipality Gamma School 92",NCR,"Caloocan","Municipality Gamma",2175,41,41,14,No,0,140.00
+100093,"Quezon District Delta School 93",Region IV-A,"Quezon","District Delta",1392,43,42,0,Yes,1520,15.20
+100094,"Bohol Municipality Gamma School 94",Region VII,"Bohol","Municipality Gamma",2031,41,41,10,Yes,261,102.61
+100095,"Quirino Village Epsilon School 95",Region II,"Quirino","Village Epsilon",906,26,26,0,No,0,0.00
+100096,"Siquijor Municipality Gamma School 96",Region VII,"Siquijor","Municipality Gamma",2172,52,50,5,No,0,50.00
+100097,"Quezon City Village Epsilon School 97",NCR,"Quezon City","Village Epsilon",2440,46,41,20,No,0,200.00
+100098,"Davao del Sur Village Epsilon School 98",Region XI,"Davao del Sur","Village Epsilon",1065,24,22,5,Yes,604,56.04
+100099,"Negros Occidental City Alpha School 99",Region VI,"Negros Occidental","City Alpha",1587,42,37,3,No,0,30.00
+100100,"Pasig Town Beta School 100",NCR,"Pasig","Town Beta",2830,73,71,0,No,0,0.00
